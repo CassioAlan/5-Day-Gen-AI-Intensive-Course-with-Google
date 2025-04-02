@@ -1,13 +1,13 @@
 # 5-Day-Gen-AI-Intensive-Course-with-Google
-Materiais e anotações sobre o curso realizado em 31/03/2025 a 04/03/2025.
-https://rsvp.withgoogle.com/events/google-generative-ai-intensive_2025q1/home
+Materiais e anotações sobre o curso realizado em 31/03/2025 a 04/03/2025.  
+https://rsvp.withgoogle.com/events/google-generative-ai-intensive_2025q1/home  
 
 
 ## Dia 1
 
-Today you’ll explore the evolution of LLMs, from transformers to techniques like fine-tuning and inference acceleration. You’ll also get trained in the art of prompt engineering for optimal LLM interaction and evaluating LLMs. 
+Today you’ll explore the evolution of LLMs, from transformers to techniques like fine-tuning and inference acceleration. You’ll also get trained in the art of prompt engineering for optimal LLM interaction and evaluating LLMs.  
 
-The first codelab will walk you through getting started with the Gemini 2.0 API and cover several prompt techniques including how different parameters impact the prompts. In the second codelab, you will also learn how to evaluate the response of LLMs using autoraters and structured output.
+The first codelab will walk you through getting started with the Gemini 2.0 API and cover several prompt techniques including how different parameters impact the prompts. In the second codelab, you will also learn how to evaluate the response of LLMs using autoraters and structured output.  
 
 ### Foundational Large Language Models & Text Generation
 Podcast: [Whitepaper Companion Podcast - Foundational LLMs & Text Generation](https://youtu.be/Na3O4Pkbp-U?si=Fn5Ry61eChrIThgN)  
@@ -24,7 +24,7 @@ Artigo: [Prompt Engineering](https://www.kaggle.com/whitepaper-prompt-engineerin
 
 ## Dia 2
 
-Today you will learn about the conceptual underpinning of embeddings and vector databases, and how they can be used to bring live or specialist data into your LLM application. You’ll also explore their geometrical powers for classifying and comparing textual data as well as how to evaluate embeddings.
+Today you will learn about the conceptual underpinning of embeddings and vector databases, and how they can be used to bring live or specialist data into your LLM application. You’ll also explore their geometrical powers for classifying and comparing textual data as well as how to evaluate embeddings.  
 
 ### Embeddings and Vector Stores/ Databases
 Podcast: [Whitepaper Companion Podcast - Embeddings & Vector Stores](https://youtu.be/xCAVsst6WJ8?si=I3lBGOg8IhMcSXBC)  
@@ -38,9 +38,9 @@ Artigo: [Embeddings & Vector Stores](https://www.kaggle.com/whitepaper-embedding
 
 ## Dia 3
 
-Learn to build sophisticated AI agents by understanding their core components and the iterative development process. You'll also learn more about advanced agentic architectures and approaches such as multi-agent systems, agent evaluation and more.
+Learn to build sophisticated AI agents by understanding their core components and the iterative development process. You'll also learn more about advanced agentic architectures and approaches such as multi-agent systems, agent evaluation and more.  
 
-The codelabs cover how to connect LLMs to existing systems and to the real world. Learn about function calling by giving SQL tools to a chatbot (including an example using Gemini 2.0’s Live API), and learn how to build a LangGraph agent that takes orders in a café.
+The codelabs cover how to connect LLMs to existing systems and to the real world. Learn about function calling by giving SQL tools to a chatbot (including an example using Gemini 2.0’s Live API), and learn how to build a LangGraph agent that takes orders in a café.  
 
 ### Generative AI Agents
 Podcast: [Whitepaper Companion Podcast - Agents](https://youtu.be/D3Kaqz7VW28?si=MIODOwrvIuNv7jPp)  

@@ -49,10 +49,19 @@ Kaggle: [Day 3 - Function calling with the Gemini API](https://www.kaggle.com/co
 Kaggle: [Day 3 - Building an agent with LangGraph](https://www.kaggle.com/code/markishere/day-3-building-an-agent-with-langgraph/)  
 
 ### Agents Companion
-Podcast: [Whitepaper Companion Podcast - Agents Companion](https://youtu.be/7rbSwt-7odQ?si=dkGf4a9khLPR-MF0)  
+Podcast: [Whitepaper Companion Podcast - Agents Companion](https://youtu.be/7rbSwt-7odQ?si=dkGf4a9khLPR-MF0) - a geração desse podcast bugou a partir de certo ponto, entrando em loop no conteúdo do artigo.  
 Artigo: [Agents Companion](https://www.kaggle.com/whitepaper-agent-companion)  
 
 
+## Dia 4
 
+In today’s reading, you’ll delve into the creation and application of specialized LLMs like SecLM and MedLM/Med-PaLM, with insights from the researchers who built them.  
 
+In the codelabs, you'll learn how to add real-world data to a model using Google Search and then visualize it with plotting tools via the Live API. You will also learn how to fine-tune a custom Gemini model using your own labeled data to solve custom tasks.  
+
+### Domain-Specific LLMs
+Podcast: [Whitepaper Companion Podcast - Solving Domain-Specific Problems Using LLMs](https://youtu.be/MWqspvVvNzA?si=4rp26w39yMqfdUd4)  
+Artigo: [Solving Domain-Specific Problems Using LLMs](https://www.kaggle.com/whitepaper-solving-domains-specific-problems-using-llms)  
+Kaggle: [Day 4 - Fine tuning a custom model](https://www.kaggle.com/code/markishere/day-4-fine-tuning-a-custom-model)  
+Kaggle: [Day 4 - Google Search grounding](https://www.kaggle.com/code/markishere/day-4-google-search-grounding)  
 

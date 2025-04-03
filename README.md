@@ -2,6 +2,9 @@
 Materiais e anotações sobre o curso realizado em 31/03/2025 a 04/03/2025.  
 https://rsvp.withgoogle.com/events/google-generative-ai-intensive_2025q1/home  
 
+Playlist com as lives: [5-Day Gen AI Intensive Course with Google 2025](https://www.youtube.com/playlist?list=PLqFaTIg4myu-lbBTrUpoQQIzZZxvrOaP5)  
+Indicado ver o material de cada dia e a live daquele dia na sequência.  
+
 
 ## Dia 1
 

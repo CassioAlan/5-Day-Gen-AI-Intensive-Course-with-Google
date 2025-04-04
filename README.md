@@ -68,3 +68,17 @@ Artigo: [Solving Domain-Specific Problems Using LLMs](https://www.kaggle.com/whi
 Kaggle: [Day 4 - Fine tuning a custom model](https://www.kaggle.com/code/markishere/day-4-fine-tuning-a-custom-model)  
 Kaggle: [Day 4 - Google Search grounding](https://www.kaggle.com/code/markishere/day-4-google-search-grounding)  
 
+
+## Dia 5
+
+Discover how to adapt MLOps practices for Generative AI and leverage Vertex AI's tools for foundation models and generative AI applications such as AgentOps for agentic applications.  
+
+Podcast: [Whitepaper Companion Podcast - Operationalizing Generative AI on Vertex AI using MLOps](https://youtu.be/Hbk8UXavHrk?si=VFRLSGzmgJEQ5WYy)  
+Artigo: [Operationalizing Generative AI on Vertex AI using MLOps](https://www.kaggle.com/whitepaper-operationalizing-generative-ai-on-vertex-ai-using-mlops)  
+
+A resource created for making MLOps for Gen AI easier and accelerating the path to production: https://github.com/GoogleCloudPlatform/agent-starter-pack
+
+
+
+
+
